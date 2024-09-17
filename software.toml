@@ -1,0 +1,7 @@
+[software]
+
+[[package]]
+name = "software1"
+
+[[package]]
+name = "software2"
